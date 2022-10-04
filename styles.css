@@ -1,0 +1,66 @@
+h1, h2 {
+    text-align: center;
+}
+button {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 250px;
+    height: 60px;
+    font-size: 30px;
+    background-color: rgb(46, 136, 50);
+    border: none;
+    border-radius: 6px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: lowercase;
+    color: rgb(32, 30, 30);
+    font-weight: bold;
+    color: beige;
+    margin-top: -30px;
+}
+#init {
+    color: green;
+    font-size: 59px;
+}
+h1 {
+    text-align: center;
+    /* font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(29, 29, 22);
+    font-size: large;
+    text-transform: uppercase;
+    /* text-shadow: 2px 1px rgb(59, 7, 7), 1px 2px rgb(58, 10, 10), 2px 0 rgb(66, 9, 9), 0 2px rgb(51, 8, 8); */
+    padding-top: 20px;
+}
+.center {
+text-align: center;
+}
+#save-count {
+    background-color: rgb(44, 60, 112);
+    margin-top: 8px;
+}
+p {
+    text-align: center;
+    font-size: 38px;
+    font-weight: bold;
+    /* color: rgb(238, 54, 54); */
+    color: #fff;
+    /* text-shadow:-1px 2px black, 2px 2px black, 2px 2px black, -1px 2px white; */
+    /* text-shadow: 5px 5px 5px white; */
+} 
+.background {
+    background: url("https://images.pexels.com/photos/6284304/pexels-photo-6284304.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-repeat: no-repeat;
+    background: position center;
+    background-size: cover;
+    margin-left: auto;
+   margin-right: auto;
+    height: 500px;
+    width: 100%;
+    max-width: 600px;
+    border-radius: 6%;
+}
+body {
+    background-color: rgb(121, 113, 101);
+}
